@@ -20,7 +20,6 @@ var domains = {
   "2000fun.com": 1, 
   "2008xianzhang.info": 1, 
   "21andy.com": 1, 
-  "24smile.org
   javlibrary.com": 1, 
   "2shared.com": 1, 
   "301works.org": 1, 
