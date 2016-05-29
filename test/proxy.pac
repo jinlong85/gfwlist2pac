@@ -8,6 +8,8 @@ var domains = {
   "xheel.com": 1,
   "10musume.com": 1, 
   "123rf.com": 1, 
+  "loszand.com": 1,
+  "urrpic.com":1,
   "12bet.com": 1, 
   "12vpn.com": 1, 
   "141hongkong.com": 1, 
