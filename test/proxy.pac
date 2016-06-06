@@ -10,6 +10,7 @@ var domains = {
   "123rf.com": 1, 
   "loszand.com": 1,
   "urrpic.com":1,
+  "cutiesgeneration.com":1,
   "12bet.com": 1, 
   "12vpn.com": 1, 
   "141hongkong.com": 1, 
