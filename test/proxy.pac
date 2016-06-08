@@ -9,6 +9,8 @@ var domains = {
   "10musume.com": 1, 
   "123rf.com": 1, 
   "loszand.com": 1,
+  "dix3.com": 1,
+  "yunfile.com": 1,
   "urrpic.com":1,
   "cutiesgeneration.com":1,
   "12bet.com": 1, 
