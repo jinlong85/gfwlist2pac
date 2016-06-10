@@ -11,6 +11,7 @@ var domains = {
   "loszand.com": 1,
   "dix3.com": 1,
   "yunfile.com": 1,
+  "vefile.com": 1,
   "urrpic.com":1,
   "cutiesgeneration.com":1,
   "12bet.com": 1, 
