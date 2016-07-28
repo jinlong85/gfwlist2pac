@@ -6,6 +6,7 @@ var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 var domains = {
   "0to255.com": 1,
   "virtualrealporn.com": 1,
+  "sexlikereal.com": 1,
   "sebar8.com": 1,
   "oculus.com": 1,
   "xheel.com": 1,
